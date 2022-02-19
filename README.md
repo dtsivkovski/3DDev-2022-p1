@@ -6,7 +6,8 @@ This is the repository for the Del Norte High School 3D Development Club's first
 
 ---
 ### Most important files so far
-* [Movement.cs](https://github.com/dtsivkovski/3DDev-2022-p1/blob/master/Assets/Movement.cs) - The C# movement code
+* [Movement.cs](https://github.com/dtsivkovski/3DDev-2022-p1/blob/master/Assets/Movement.cs) - The player movement code.
+* [Follow.cs](https://github.com/dtsivkovski/3DDev-2022-p1/blob/master/Assets/Follow.cs) - The code for the camera to follow the player.
 
 ### Other resources
 * [3D Development Club Y2022 YouTube Tutorials](https://youtube.com/playlist?list=PLN4MsFOZPbwLaN7rcoTmvbAdzLlzHWeCW)
